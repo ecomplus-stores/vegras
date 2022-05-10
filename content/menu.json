@@ -1,7 +1,9 @@
 {
   "sort_categories": [
     "racas/",
-    "ofertas"
+    "ofertas",
+    "cozinha",
+    "por-ambiente"
   ],
   "alphabetical_order": true,
   "phone_wpp": true,
