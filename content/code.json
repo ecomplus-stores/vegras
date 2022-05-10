@@ -1,5 +1,5 @@
 {
-  "css": ".top-bar {\n    background: #ffed00;\n}\n.header {\n    background: #242424;\n}\n.header__category {\n    color: #ffffff;\n}",
+  "css": ".top-bar {\n    background: #242424;\n}\n.header {\n    background: #242424;\n}\n.header__buttons .btn {\n    color: #ffffff;\n}\n.top-bar__nav {\n    color: #ffffff;\n}\n.header__category {\n    color: #ffffff;\n}",
   "html_head": "",
   "html_body": ""
 }
