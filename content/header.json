@@ -16,9 +16,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/geometricos/?Pets/Geométricos "
-    ],
+    "featured": [],
     "random": 6,
     "full_width": false
   },
