@@ -1,6 +1,7 @@
 {
   "sort_categories": [
-    "racas/"
+    "racas/",
+    "ofertas"
   ],
   "alphabetical_order": true,
   "phone_wpp": true,
