@@ -1,5 +1,5 @@
 {
-  "css": ".top-bar {\n    background: #242424;\n}\n.header {\n    background: #242424;\n}\n.header__buttons .btn {\n    color: #ffffff;\n}\n.top-bar__nav {\n    color: #ffffff;\n}\n.header__category {\n    color: #ffffff;\n}",
+  "css": ".top-bar {\n    background: #242424;\n}\n.header {\n    background: #242424;\n}\n.header__buttons .btn {\n    color: #ffffff;\n}\n.top-bar__nav {\n    color: #ffffff;\n}\n.header__category {\n    color: #ffffff;\n}\nbutton.btn.btn-lg.btn-primary {\n    background-color: var(--success);\n    border-color: var(--success);\n}\n\nbutton.btn.btn-primary.btn-block {\n    background-color: var(--success);\n    border-color: var(--success);\n}\n\n.minicart__btn-checkout{\n    background-color: var(--success);\n    border-color: var(--success);\n}\n\n.header__toggler-icon{\n  color: var(--primary-lightest);\n  \n}\n\n",
   "html_head": "",
   "html_body": ""
 }
