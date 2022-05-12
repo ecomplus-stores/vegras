@@ -16,7 +16,12 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/racas/?Raças de Dogs",
+      "/ofertas?Ofertas",
+      "/por-ambiente?Por ambiente",
+      "/cozinha?Categorias"
+    ],
     "random": 6,
     "full_width": false
   },
