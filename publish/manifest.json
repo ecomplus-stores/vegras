@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.24c47bc2ef11302af2f85f8b96e9c4c3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.8986244f5fba4d5bf565d683dea8469c.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.13652d2be33c3263534c35e7eb793b02.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.205bf6969cb3594e6669d4ccb600f9c2.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.485c06049cb147d807da9f04606cebd1.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "vegras",
+  "short_name": "Vegras",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Utilidades, inovações e decoração produzidos com material 100 % renovável e biodegradável, que não agride o meio ambiente.\nO material é o PLA, derivado da cana de açúcar ou amido de milho, diferente dos plásticos tradicionais, que são derivados do petróleo.",
+  "background_color": "#ffffff",
+  "theme_color": "#d0a369"
+}
