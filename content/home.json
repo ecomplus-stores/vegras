@@ -11,17 +11,19 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/abril-2022-pets.jpg",
-          "link": "https://www.vegras.com/racas/"
+          "link": "https://www.vegras.com/search?term=geom%C3%A9trico"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/abril-2022-menina-e-seu-pet.jpg"
+          "img": "/img/uploads/abril-2022-menina-e-seu-pet.jpg",
+          "link": "https://www.vegras.com/search?term=menina+menino"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/abril-22-pai-e-mae.jpg"
+          "img": "/img/uploads/abril-22-pai-e-mae.jpg",
+          "link": "https://www.vegras.com/search?term=pai+m%C3%A3e"
         }
       ]
     },
