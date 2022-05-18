@@ -28,13 +28,13 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-brinde.jpg",
       "mobile_img": "/img/uploads/banner-brinde-mobile.jpg"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "dynamic-showcase",
