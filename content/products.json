@@ -5,6 +5,11 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/brinde-png-desktop.png",
+      "mobile_img": "/img/uploads/brinde-png-mobile.png"
+    },
+    {
       "type": "product-block",
       "enabled": true,
       "size_guide": {
