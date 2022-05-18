@@ -1,13 +1,13 @@
 {
   "sections": [
     {
-      "type": "search-engine",
-      "enabled": true
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/brinde-png-desktop.png",
       "mobile_img": "/img/uploads/brinde-png-mobile.png"
+    },
+    {
+      "type": "search-engine",
+      "enabled": true
     }
   ]
 }
