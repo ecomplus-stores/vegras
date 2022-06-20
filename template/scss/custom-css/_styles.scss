@@ -1,1 +1,4 @@
 // Add your custom CSS here.
+#s-cozinha {
+  grid-template-columns: repeat(auto-fit,minmax(50%,1fr)) !important;
+}
