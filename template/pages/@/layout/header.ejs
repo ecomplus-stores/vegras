@@ -271,7 +271,7 @@ const hasMegamenu = header.desktop_megamenu
                 <%- $categoryLink %>
                 <%  if (slug && hasMegamenu) { %>
                   <% const subcategoriesWithOutSort = _.categories.filter(({ parent }) => parent && parent.slug === slug) 
-                      const subcategories = subcategoriesWithOutSort.lodash.sortBy(_.categories, ['name'])
+                      const subcategories = _.lodash.sortBy(subcategoriesWithOutSort, ['name'])
                   %>
                   <% if (subcategories.length) { %>
                     <nav class="header__submenu" id="<%= `s-${slug.replace(/\//g, '_')}` %>">
