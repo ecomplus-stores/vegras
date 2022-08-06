@@ -20,7 +20,8 @@
       "/racas/?Raças de Dogs",
       "/ofertas?Ofertas",
       "/por-ambiente?Por ambiente",
-      "/cozinha?Categorias"
+      "/cozinha?Categorias",
+      "/brinquedos-para-pet?Brinquedos para pet"
     ],
     "random": 1,
     "full_width": false
